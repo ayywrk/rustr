@@ -1,0 +1,9 @@
+[package]
+name = "ruster"
+version = "0.1.0"
+authors = ["wrk"]
+edition = "2018"
+
+[dependencies]
+openssl = "0.10.35"
+regex = "1.5.4"
